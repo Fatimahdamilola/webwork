@@ -2,4 +2,16 @@ body{
     font-size: 30px;
     color: brown;
     background-color: chocolate;
+    background-image: url(/images/IMG_20191031_110758_8.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+#diff{
+    color: aqua;
+    border-style: dotted;
+    border-color: brown;
+    border-radius: 30px;
+    border-width: 5px;
 }
